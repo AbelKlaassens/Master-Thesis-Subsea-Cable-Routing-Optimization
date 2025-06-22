@@ -49,7 +49,7 @@ fishing_raster = rasterize(
 log_fishing = np.log1p(fishing_raster)
 fishing_normalized = log_fishing / np.nanmax(log_fishing)
 
-# Define depth-based cap on fault rate (values from literature)
+# Define depth-based cap on fault rate
 def get_max_fault_rate(depth):
     if depth < 300:
         return 0.069
