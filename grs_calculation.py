@@ -1,7 +1,8 @@
 # ============================================
-# Master Thesis Appendix Script
+# Master Thesis Script 2
 # Geopolitical Risk Assessment Along Subsea Cable Path
 # Author: Abel Klaassens
+# Institution: University of Groningen
 # ============================================
 
 # === SECTION 1: Imports & Setup ===
